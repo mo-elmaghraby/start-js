@@ -1,0 +1,9 @@
+
+/* //.............................................. */
+
+.content .product:hover {
+    border: 1px solid red;
+    color: rgb(91, 165, 42);
+    outline: none;
+    /* transition: 0.3s; */
+}
