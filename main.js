@@ -1,4 +1,4 @@
-// حل الفيديو رقم 101
+
 
 let ele = document.createElement("div") ;
 let head = document.createElement("header") ;
